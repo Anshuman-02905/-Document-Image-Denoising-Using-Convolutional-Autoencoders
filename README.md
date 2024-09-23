@@ -1,1 +1,1 @@
-# -Document-Image-Denoising-Using-Convolutional-Autoencoders
+# Document Image Denoising Using Convolutional Autoencoders
